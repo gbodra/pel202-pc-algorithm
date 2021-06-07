@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/data/microdados_enem_2019/MICRODADOS_ENEM_2019.csv
